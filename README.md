@@ -1,9 +1,9 @@
 <h3 align="center">HADNY, who Give User Handy!</h3>
 
 
-- programming language : **Ruby, Python, TypeScript, JavasScript, Node.js**
+- programming language : **TypeScript, JavasScript, Node.js**
 
-- Framework & Library : **Node.js, React.js, Next.js, Express, AWS, Docker**
+- Framework & Library : **Node.js, React.js, Next.js, Express, AWS, Docker, PostgreSQL, MySQL**
 
 - Working position : **Fullstack Javascript Developer**
 
