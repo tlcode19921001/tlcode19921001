@@ -1,11 +1,11 @@
 <h3 align="center">HADNY, who Give User Handy!</h3>
 
 
-- programming language : **TypeScript, JavasScript, Node.js**
+- programming language : **PHP, TypeScript, JavasScript, Node.js**
 
-- Framework & Library : **Node.js, React.js, Next.js, Express, AWS, Docker, PostgreSQL, MySQL**
+- Framework & Library : **Laravel, Node.js, React.js, Next.js, Express, AWS, Docker, PostgreSQL, MySQL**
 
-- Working position : **Fullstack Javascript Developer**
+- Working position : **Fullstack Developer**
 
 <div style="display: block;justify-content: center; gap: 20px">
   <div style="display: block;justify-content: center; gap: 20px">
